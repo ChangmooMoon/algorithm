@@ -19,7 +19,5 @@ public class BJ_10971 {
         a[i][j] = Integer.parseInt(st.nextToken());
       }
     }
-
-    int result = min_cost();
   }
 }
